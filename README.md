@@ -15,5 +15,5 @@ O Objetivo do projeto é criar uma aplicação Web e Mobile chamada DevRadar par
 - Faça push para a sua branch: git push origin minha-feature.
 - Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-###Licença
+### Licença
 Esse projeto está sob a licença MIT.
